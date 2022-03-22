@@ -1,0 +1,67 @@
+.navbar{
+    background-color: rgb(131, 128, 128);
+    border-radius: 24px;
+    height: 50px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    padding: 17px;
+    float: left;
+    list-style: none;
+}
+.navbar li a{
+    text-decoration: none;
+    color: black;
+}
+.navbar li a:hover{
+    font-size: 17px;
+    color: rgb(253, 246, 246);
+}
+.search{
+    float: right;
+    padding: 13px 102px;
+}
+#search{
+    border-radius: 25px;
+}
+.logo{
+   height: 100px;
+   width: 100px;
+   display: block;
+   margin: auto;
+   border-radius: 50%;
+   padding: 15px;
+}
+.gallery-youtube{
+    height: 230px;
+    width: 280px;
+    border-radius: 20%;
+    padding: 20px;
+}
+.gallery-youtube:hover{
+    box-shadow: 10px 10px 5px #aaaaaa;
+    transform: rotate(3deg);
+
+}
+p{
+    display: block;
+    font-family: 'Hind', sans-serif;
+}
+p1{
+    display: block;
+    font-family: 'Hind', sans-serif;
+}
+.centre {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+.design:hover{
+      border: 2px solid red;
+      
+  }
